@@ -92,7 +92,7 @@ Folder structure
 
 Install dependencies:
 ```bash
-pip install -r src/requirements.txt
+pip install -r requirements.txt
 ```
 
 ▶️ Run scripts:
@@ -115,7 +115,7 @@ Saved in the `results/` directory:
 ---
 
 ## Dependencies
-See src/requirements.txt
+See requirements.txt
 
 ## Citation & License
 **License:**  
@@ -127,4 +127,5 @@ If you use this project in academic work, please cite it as:
 > Thunbo, Michael Mørch. *Preaching  in Occupied Land: Crisis and Sermons in Wartime Denmark (1940–1945)*. GitHub repository, 2025. https://github.com/mmtmf/preaching-in-occupied-land
 
 ## About the Project
+
 Developed as part of a PhD research project examining sermons in times of national crisis.
