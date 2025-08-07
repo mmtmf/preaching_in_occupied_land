@@ -129,3 +129,4 @@ If you use this project in academic work, please cite it as:
 ## About the Project
 
 Developed as part of a PhD research project examining sermons in times of national crisis.
+
