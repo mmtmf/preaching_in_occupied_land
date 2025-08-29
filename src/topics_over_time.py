@@ -212,8 +212,8 @@ for i, sig in enumerate(sorted_df['significant']):
         bars[i].set_edgecolor('black')
         bars[i].set_linewidth(1.2)
 
-plt.xlabel("Change in topic emphasis (after - before collapse)")
-plt.title(f"Top {top_n} changes in sermon topics after The Collapse of Government", pad=15)
+plt.xlabel("Change in topic emphasis (after - before)")
+plt.title(f"Top {top_n} changes in sermon topics after the Collapse of Government", pad=15)
 plt.axvline(0, color='gray', linewidth=1)
 plt.grid(axis='x', linestyle='--', linewidth=0.5, alpha=0.3)
 plt.gca().invert_yaxis()
@@ -287,8 +287,8 @@ for i, sig in enumerate(sorted_telegram_df['significant']):
         bars[i].set_edgecolor('black')
         bars[i].set_linewidth(1.2)
 
-plt.xlabel("Change in topic emphasis (after - before crisis)")
-plt.title(f"Top {top_n_telegram} changes in sermon topics after The Telegram Crisis", pad=15)
+plt.xlabel("Change in topic emphasis (after - before)")
+plt.title(f"Top {top_n_telegram} changes in sermon topics after the Telegram Crisis", pad=15)
 plt.axvline(0, color='gray', linewidth=1)
 plt.grid(axis='x', linestyle='--', linewidth=0.5, alpha=0.3)
 plt.gca().invert_yaxis()
@@ -520,7 +520,7 @@ plot_top_changes(
 # === Plot for Collapse of Government ===
 plot_top_changes(
     collapse_top,
-    "Top changes in sermon topics by affiliation\n after The Collapse of Government",
+    "Top changes in sermon topics by affiliation\n after the Collapse of Government",
     "top_topic_shifts_collapse.png"
 )
 
