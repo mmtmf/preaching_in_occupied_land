@@ -156,7 +156,7 @@ main_affiliations = ["ind", "gru", "tid",]
 # Map abbreviations to full names
 affiliation_names = {
     "ind": "Indre Mission",
-    "gru": "Grundtvigske",
+    "gru": "Grundtvigian",
     "tid": "Tidehverv"
 }
 
@@ -239,7 +239,7 @@ delta_stats.sort_values("mean", ascending=False, inplace=True)
 # === Map abbreviations to full names ===
 affiliation_names = {
     "ind": "Indre Mission",
-    "gru": "Grundtvigske",
+    "gru": "Grundtvigian",
     "tid": "Tidehverv"
 }
 delta_stats["affiliation_full"] = delta_stats["affiliation_std"].map(affiliation_names)
@@ -510,11 +510,11 @@ mpl.rcParams['font.size'] = 26
 
 # === Full display names for events ===
 event_name_map = {
-    "Telegram Crisis": "The Telegram Crisis",
-    "Norwegian Ban": "The Norwegian Ban",
-    "Collapse of Government": "The Collapse of Government",
-    "Pastoral Letter": "The first Pastoral letter",
-    "Kaj Munk Murder": "The murder on Kaj Munk"
+    "Telegram Crisis": "Telegram Crisis",
+    "Norwegian Ban": "Norwegian Ban",
+    "Collapse of Government": "Collapse of the Government",
+    "Pastoral Letter": "First pastoral letter",
+    "Kaj Munk Murder": "Murder of Kaj Munk"
 }
 
 # === Function to compute Cohen's d ===
