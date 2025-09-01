@@ -117,6 +117,9 @@ Saved in the `results/` directory:
 ## Dependencies
 See requirements.txt
 
+## AI Assistance
+Parts of this code were developed with assistance from ChatGPT (versions 4o and 5), used for standard setup and debugging.
+
 ## Citation & License
 **License:**  
 This project is licensed under the [MIT License](LICENSE.txt).
@@ -129,4 +132,5 @@ If you use this project in academic work, please cite it as:
 ## About the Project
 
 Developed as part of a PhD research project examining sermons in times of national crisis.
+
 
