@@ -129,13 +129,10 @@ If you use this project in academic work, please cite it as:
 
 > Thunbo, Michael. ‘Preaching in Occupied Land: Crisis and Sermons in Wartime Denmark (1940–1945)’. Studia Theologica - Nordic Journal of Theology 0, no. 0 (12 February 2026): 1–16. doi:10.1080/0039338X.2026.2622675.
 
-or, if only the repository is relevant:
-
-> Thunbo, Michael Mørch. *Preaching  in Occupied Land: Crisis and Sermons in Wartime Denmark (1940–1945)*. GitHub repository, 2025. https://github.com/mmtmf/preaching-in-occupied-land
-
 ## About the Project
 
 Developed as part of a PhD research project examining sermons in times of national crisis.
+
 
 
 
