@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite the associated article."
+title: "Preaching in Occupied Land: Crisis and Sermons in Wartime Denmark (1940–1945)"
+type: software
+authors:
+  - family-names: "Thunbo"
+    given-names: "Michael Mørch"
+license: "MIT"
+repository-code: "https://github.com/mmtmf/preaching_in_occupied_land"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Thunbo"
+      given-names: "Michael Mørch"
+  title: "Preaching in Occupied Land: Crisis and Sermons in Wartime Denmark (1940–1945)"
+  journal: "Studia Theologica - Nordic Journal of Theology"
+  date-published: "2026-02-12"
+  doi: "10.1080/0039338X.2026.2622675"
